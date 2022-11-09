@@ -1,0 +1,28 @@
+{
+    "deleteorder": [
+        {
+            "codeorder": "order04",
+            "id": "sp4",
+            "name": "GB CLASSIC B1817",
+            "price": 370,
+            "quantity": 1,
+            "total": 370
+        },
+        {
+            "codeorder": "order05",
+            "id": "sp5",
+            "name": "GB MARY JANE B1710",
+            "price": 289,
+            "quantity": 1,
+            "total": 289
+        },
+        {
+            "codeorder": "order01",
+            "id": "sp1",
+            "name": "[MUA 1 TẶNG 1] [LIMITED] GB BOOTS B1825",
+            "price": 470,
+            "quantity": 1,
+            "total": 470
+        }
+    ]
+}

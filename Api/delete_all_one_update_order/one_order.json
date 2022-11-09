@@ -1,0 +1,17 @@
+{
+    "oneorder": [
+        {
+            "codeorder": "order04",
+            "userId": 4,
+            "username": "user4",
+            "email": "user@example.com",
+            "address": "Ha Noi",
+            "phone": "033245678",
+            "id": "sp4",
+            "name": "GB CLASSIC B1817",
+            "price": 370,
+            "quantity": 1,
+            "total": 370
+        }
+    ]
+}

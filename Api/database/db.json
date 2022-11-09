@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "type": "FAPAS",
+      "title": "FAPAS REGULAR PEPPER JOGGER",
+      "price": 400000
+    },
+    {
+      "id": 2,
+      "type": "FAPAS",
+      "title": "FAPAS REGULAR PINGO",
+      "price": 380000
+    },
+    {
+      "id": 3,
+      "type": "FAPAS",
+      "title": "FAPAS MANLY POLO",
+      "price": 350000
+    },
+    {
+      "id": 4,
+      "type": "FAPAS",
+      "title": "FANPAS JOKEE TEE",
+      "price": 500000
+    }
+  ],
+  "orders": [
+    {
+      "codeorder": "order02",
+      "userId": 2,
+      "id": 2,
+      "name": "FAPAS REGULAR ROBYN TEE",
+      "price": 300,
+      "quantity": 2,
+      "total": 600
+    },
+    {
+      "username": "usergg",
+      "id": 3
+    },
+    {
+      "codeorder": "order04",
+      "userId": 4,
+      "id": 4,
+      "name": "FAPAS BOMBER REGULAR DONN",
+      "price": 650,
+      "quantity": 1,
+      "total": 650
+    },
+    {
+      "codeorder": "order05",
+      "userId": 5,
+      "id": 5,
+      "name": "FAPAS GUILE SKINNY JEAN",
+      "price": 550,
+      "quantity": 1,
+      "total": 550
+    },
+    {
+      "codeorder": "order06",
+      "userId": 6,
+      "id": 7,
+      "name": "FAPAS REGULAR KENNY TEEgggg",
+      "price": 290,
+      "quantity": 1,
+      "total": 290
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "nhat",
+      "email": "nhat123@email.com",
+      "password": "nhat"
+    },
+    {
+      "id": 2,
+      "name": "nhienle",
+      "email": "nhienle@email.com",
+      "password": "nhienle"
+    },
+    {
+      "id": 3,
+      "email": "nhanvo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "name": "Nhat",
+      "email": "nhat@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 5,
+      "name": "nhat1",
+      "email": "nhat1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "name": "Nhat2",
+      "email": "nhat2@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
